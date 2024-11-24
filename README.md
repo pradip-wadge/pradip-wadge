@@ -5,7 +5,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sonusinha1707&label=Profile%20views&color=0e75b6&style=flat" alt="sonusinha1707" /> </p>
 
 
-- 📄 Know about my experiences [https://resume-builder-test-new.masaischool.com/resume/public?resumeId=6743ab606f511f318316531c]
+- 📫 Know about my experiences [https://resume-builder-test-new.masaischool.com/resume/public?resumeId=6743ab606f511f318316531c]
 
 - 🌱 I’m currently learning **Data Analytics | Data Science | Machine Learning**
 
@@ -18,7 +18,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://x.com/pradip_wadage?t=1OVHe838_LEPvaZtWpcWlg&s=09" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="pradip.wadge2002@gmail.com" height="30" width="40" /></a>
-<a href="www.linkedin.com/in/pradip-wadage-868a76249" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="pradip-wadage" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/pradip-wadage-868a76249/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="pradip-wadage" height="30" width="40" /></a>
 <a href="https://leetcode.com/u/pradip_wadge/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="@sonusinha1707" height="30" width="40" /></a>
 </p>
 
