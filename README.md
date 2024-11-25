@@ -9,8 +9,6 @@
 
 - 🌱 I’m currently learning **Data Analytics | Data Science | Machine Learning**
 
-- 💬 Ask me about **Data Analytics, Data Science, Machine Learning**
-
 - 📫 How to reach me **pradip.wadge2002@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
