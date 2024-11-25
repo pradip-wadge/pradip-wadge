@@ -13,8 +13,6 @@
 
 - 📫 How to reach me **pradip.wadge2002@gmail.com**
 
-- ⚡ Fun fact **Companies that use customer analytics are 23 times more likely to outperform their competitors in customer acquisition.**
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://x.com/pradip_wadage?t=1OVHe838_LEPvaZtWpcWlg&s=09" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="pradip.wadge2002@gmail.com" height="30" width="40" /></a>
