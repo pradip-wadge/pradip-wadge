@@ -6,7 +6,7 @@
 
 🎓 Data Analyst with B.Tech in Computer Science, proficient in Python, SQL, and Power BI, and well-versed in machine learning models and data visualization. 
 5 Star on HackerRank MySQL.  
-📫 How to reach me **pradip.wadge2002@gmail.com**
+How to reach me **pradip.wadge2002@gmail.com**
 
 ## Connect with Me
 
@@ -14,7 +14,7 @@
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/pradip-wadge)
 [![HackerRank](https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white)](https://www.hackerrank.com/profile/pradip_wadge2002)
 
-## Catch My Project Presentations 
+## 🚀 Catch My Project Presentations 
 - **Genomics Of Drug Sensitivity In Cancer** : https://youtu.be/ZxJ36yWMhnY  
   Description: Helps researchers select an appropriate sensitive drug for a particular cancer type. 
 - **Inventory Analysis**: https://youtu.be/7kgBPWAAAzE  
