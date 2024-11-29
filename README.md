@@ -18,16 +18,20 @@
 [![HackerRank](https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white)](https://www.hackerrank.com/profile/pradip_wadge2002)
 
 ## 📈 Catch My Project Presentations 
-- **Genomics Of Drug Sensitivity In Cancer** : https://youtu.be/ZxJ36yWMhnY
-- **Inventory Analysis**: https://youtu.be/7kgBPWAAAzE
-- **Cast Based Hate Crime Analysis** : https://www.youtube.com/watch?v=D5pjlydHlXk
+- **Genomics Of Drug Sensitivity In Cancer** : https://youtu.be/ZxJ36yWMhnY  
+  Description: Helps researchers select an appropriate sensitive drug for a particular cancer type. 
+- **Inventory Analysis**: https://youtu.be/7kgBPWAAAzE  
+  Description: Assists organizations handle their inventory and manage their supply chain costs.
+- **Cast Based Hate Crime Analysis** : https://www.youtube.com/watch?v=D5pjlydHlXk  
+  Description: Guides government organizations take strict actions against crime based on a dynamic Streamlit application.
 
 
 ## 🔧 My Arsenal of Skills
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white) ![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![Scikit-learn](https://img.shields.io/badge/Scikit_Learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white) ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white) ![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white) ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 
-- Programming Languages: ![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-- Machine Learning: ![Scikit-learn](https://img.shields.io/badge/Scikit_Learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white) ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white) ![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
+- Programming Languages: **Python | C++**
+- Machine Learning: **Pandas | Numpy | Scikit-learn | Matplotlib | Seaborn**
 - Visualization Tools: **Excel | PowerBI**
-- Database Management: ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white) 
-- Version Control: ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-- Operating Systems: ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black) ![Windows](https://img.shields.io/badge/Windows-0078D6?style=flat-square&logo=windows&logoColor=white)
+- Database Management: **MySQL | MongoDB**
+- Version Control: **Git**
+- Operating Systems: **Linux | Windows**
