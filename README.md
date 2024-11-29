@@ -1,14 +1,11 @@
-<h1 align="center"> Hey there, I'm Pradip Wadage! <img src="https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif" 
-         alt="Waving hand animated gif"
-         height="45"
-         width="45" /></h1>
+# Hi, I'm Pradip Wadage! 👋
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pradip-wadge&label=Profile%20views&color=0e75b6&style=flat" alt="Pradip Wadage" /> </p>
 
 ## 🚀 About Me
 
 🎓 Data Analyst with B.Tech in Computer Science, proficient in Python, SQL, and Power BI, and well-versed in machine learning models and data visualization. 
-5 Star on HackerRank MySQL.
+5 Star on HackerRank MySQL.  
 📫 How to reach me **pradip.wadge2002@gmail.com**
 
 ## 🌐 Connect with Me
@@ -29,11 +26,11 @@
 ## 🔧 My Arsenal of Skills
 
 - Programming Languages: **Python | C++**
-- Machine Learning: **Pandas | Numpy | Scikit-learn | Matplotlib | Seaborn**
-- Visualization Tools: **Excel | PowerBI**
 - Database Management: **MySQL | MongoDB**
+- Visualization Tools: **Excel | PowerBI**
+- Machine Learning: **Pandas | Numpy | Scikit-learn | Matplotlib | Seaborn**
 - Version Control: **Git**
 - Operating Systems: **Linux | Windows**
   
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white) ![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![Scikit-learn](https://img.shields.io/badge/Scikit_Learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white) ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white) ![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white) ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+  ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white) ![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![Scikit-learn](https://img.shields.io/badge/Scikit_Learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white) ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white) ![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white) ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 
