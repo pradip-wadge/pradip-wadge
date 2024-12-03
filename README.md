@@ -1,6 +1,5 @@
-# Hi, I'm Pradip Wadage! 👋
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=pradip-wadge&label=Profile%20views&color=0e75b6&style=flat" alt="Pradip Wadage" /> </p>
-
+## Hi, I'm Pradip Wadage! 👋
+<!--<p align="left"> <img src="https://komarev.com/ghpvc/?username=pradip-wadge&label=Profile%20views&color=0e75b6&style=flat" alt="Pradip Wadage" /> </p> -->
 ## About Me
 **Data Analyst** with B.Tech in Computer Science, proficient in Python, SQL, and Power BI, and well-versed in machine learning models and data visualization. 
 5 Star on HackerRank MySQL.  
