@@ -14,7 +14,7 @@ How to reach me **pradip.wadge2002@gmail.com**
 ## Catch My Project Presentations 🚀
 - **Genomics Of Drug Sensitivity In Cancer** : https://youtu.be/ZxJ36yWMhnY  
   Description: Helps researchers select an appropriate sensitive drug for a particular cancer type. 
-- **Inventory Analysis**: https://youtu.be/7kgBPWAAAzE  
+- **Inventory Analysis**: https://www.youtube.com/watch?v=PcR3BlM87Iw  
   Description: Assists organizations handle their inventory and manage their supply chain costs.
 - **Cast Based Hate Crime Analysis** : https://www.youtube.com/watch?v=D5pjlydHlXk  
   Description: Guides government organizations take strict actions against crime based on a dynamic Streamlit application.
