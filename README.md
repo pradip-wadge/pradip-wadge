@@ -15,7 +15,7 @@ How to reach me **pradip.wadge2002@gmail.com**
 - **Flight Price Prediction System** : https://youtu.be/y_sNHZfQ8RE  
   Description: Estimate flight ticket prices based on user inputs like travel details and preferences.  
   Offers an interactive interface for seamless predictions.
-- **Cast Based Hate Crime Analysis** : https://www.youtube.com/watch?v=D5pjlydHlXk  
+- **Cast Based Hate Crime Analysis** : https://youtu.be/lsQQ1MkNCSw  
   Description: Guides government organizations take strict actions against crime based on a dynamic Streamlit application.
 <!-- This is a comment 
 ## My Arsenal of Skills  
