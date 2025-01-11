@@ -4,13 +4,13 @@ How to reach me **pradip.wadge2002@gmail.com**
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pradip-wadage-868a76249/)
 [![HackerRank](https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white)](https://www.hackerrank.com/profile/pradip_wadge2002)
 <!-- [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/pradip-wadge)-->
-## Core Contributions :
-- **Cast Based Hate Crime Analysis** : https://youtu.be/lsQQ1MkNCSw  
+## Core Contributions:
+- **Cast Based Hate Crime Analysis**: https://youtu.be/lsQQ1MkNCSw  
   Description: Guides government organizations take strict actions against crime based on a dynamic Streamlit application.
-- **Flight Price Prediction System** : https://youtu.be/y_sNHZfQ8RE  
+- **Flight Price Prediction System**: https://youtu.be/y_sNHZfQ8RE  
   Description: Estimate flight ticket prices based on user inputs like travel details and preferences.  
   Offers an interactive interface for seamless predictions.
-- **Genomics Of Drug Sensitivity In Cancer** : https://youtu.be/ZxJ36yWMhnY  
+- **Genomics Of Drug Sensitivity In Cancer**: https://youtu.be/ZxJ36yWMhnY  
   Description: Helps researchers select an appropriate sensitive drug for a particular cancer type.
 <!-- This is a comment 
 ## My Arsenal of Skills  
