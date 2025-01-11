@@ -1,15 +1,10 @@
-## Hi, I'm Pradip Wadage! 👋
-<!--<p align="left"> <img src="https://komarev.com/ghpvc/?username=pradip-wadge&label=Profile%20views&color=0e75b6&style=flat" alt="Pradip Wadage" /> </p> -->
-## About Me
-**Data Analyst** with B.Tech in Computer Science, proficient in Python, SQL, Excel, Power BI, and data visualization.  
-5 Star on HackerRank MySQL.  
+
 How to reach me **pradip.wadge2002@gmail.com**
 
-## Connect with Me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pradip-wadage-868a76249/)
 [![HackerRank](https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white)](https://www.hackerrank.com/profile/pradip_wadge2002)
 <!-- [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/pradip-wadge)-->
-## Catch My Project Presentations:
+## Core Contributions :
 - **Genomics Of Drug Sensitivity In Cancer** : https://youtu.be/ZxJ36yWMhnY  
   Description: Helps researchers select an appropriate sensitive drug for a particular cancer type.
 - **Flight Price Prediction System** : https://youtu.be/y_sNHZfQ8RE  
